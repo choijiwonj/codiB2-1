@@ -1,0 +1,7 @@
+{"id": "c7efc665", "date": "2024-01-15", "amount": 10000, "category": "식비", "kind": "expense", "memo": "점심", "tags": []}
+{"id": "fab38d93", "date": "2024-01-01", "amount": 3000000, "category": "월급", "kind": "income", "memo": "1월월급", "tags": []}
+{"id": "995ba1c6", "date": "2024-01-11", "amount": 500000, "category": "용돈", "kind": "income", "memo": "부모님 용돈", "tags": []}
+{"id": "0745cd3c", "date": "2024-02-11", "amount": 50000000, "category": "월급", "kind": "income", "memo": "2월 월급", "tags": []}
+{"id": "87179a35", "date": "2024-01-03", "amount": 15000, "category": "식비", "kind": "expense", "memo": "점심", "tags": []}
+{"id": "7dbfaef4", "date": "2024-01-05", "amount": 150000, "category": "식비", "kind": "expense", "memo": "아메리카노", "tags": []}
+{"id": "c3f47dc8", "date": "2024-02-05", "amount": 150000, "category": "식비", "kind": "expense", "memo": "저녁", "tags": []}
